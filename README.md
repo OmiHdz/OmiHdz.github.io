@@ -11,15 +11,18 @@ Soy Omar Hernández, un ingeniero Mecatrónico convertido en Científico de Dato
 En esta sección, presento algunas de las visualizaciones que he creado en diversos proyectos. Estas imágenes destacan mi capacidad para transformar datos complejos en información visualmente accesible y comprensible.
 
 ### Visualización de Histogramas
-![Histograma](/Proyectos/assets/histograma.png)
+<img src="/Proyectos/assets/histograma.png" alt="Histograma" width="250px">
+
 *Histograma utilizado para analizar la distribución de una variable clave en un conjunto de datos.*
 
 ### Visualización Geográfica con GeoPandas
-![GeoPandas](/Proyectos/assets/geopantas.png)
+<img src="/Proyectos/assets/geopantas.png" alt="GeoPandas" width="250px">
+
 *Mapa generado con GeoPandas para mostrar patrones geográficos en los datos.*
 
 ### Visualización de Clusters
-![Clusters](/Proyectos/assets/clusters.PNG)
+<img src="/Proyectos/assets/clusters.PNG" alt="Clusters" width="250px">
+
 *Gráfico de clusters que identifica grupos o segmentos distintos dentro de los datos analizados.*
 
 ## Proyectos Destacados
