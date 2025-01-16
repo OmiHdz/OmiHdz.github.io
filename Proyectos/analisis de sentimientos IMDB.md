@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Análisis de Sentimientos para Reseñas de Películas en IMDB"
 date: 2024-08-01
 ---
-# Aprendizaje Automático para Textos
+# Análisis de Sentimientos para Reseñas de Películas en IMDB 
+
+## Aprendizaje Automático para Textos
 
 ## Descripción del Proyecto
+
 En este sprint se trabajó en la implementación y evaluación de modelos avanzados de clasificación de textos, específicamente para clasificar reseñas de películas en IMDB. Se utilizaron técnicas de procesamiento de texto y modelos como LightGBM, Random Forest, Logistic Regression, y un Voting Classifier. El enfoque estuvo en optimizar la precisión y la generalización del modelo, utilizando herramientas como spaCy, TF-IDF y BERT para la generación de embeddings.
 
 ## Objetivo
