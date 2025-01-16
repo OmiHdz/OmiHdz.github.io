@@ -14,7 +14,8 @@ He trabajado en varios proyectos interesantes, aquí algunos ejemplos:
 - [Análisis de Sentimientos para Reseñas de Películas en IMDB](/Proyectos/analisis_de_sentimientos_IMDB.md)
 - [Predicción de Precio de Vehículos Usados](/Proyectos/car_price_prediction.md)
 - [Predicción de Demanda de Taxis](/Proyectos/prediccion_demanda_taxis)
-- [Explora más proyectos aquí.](/Proyectos)
+- [Explora más proyectos aquí.](https://github.com/OmiHdz/Data-Science-Portafolio.git)
+
 
 
 ## Ejemplos de Visualizaciones
