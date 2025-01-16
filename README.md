@@ -13,17 +13,17 @@ En esta sección, presento algunas de las visualizaciones que he creado en diver
 ### Visualización de Histogramas
 <img src="/Proyectos/assets/histograma.png" alt="Histograma" width="400px">
 
-*Histograma utilizado para analizar la distribución de una variable clave en un conjunto de datos.*
+*Histograma utilizado para analizar la distribución de ingresos en un conjunto de datos.*
 
 ### Visualización Geográfica con GeoPandas
 <img src="/Proyectos/assets/geopantas.png" alt="GeoPandas" width="500px">
 
-*Mapa generado con GeoPandas para mostrar patrones geográficos en los datos.*
+*Mapa generado con GeoPandas para mostrar patrones geográficos de ventas en un conjunto datos.*
 
 ### Visualización de Clusters
 <img src="/Proyectos/assets/clusters.PNG" alt="Clusters" width="400px">
 
-*Gráfico de clusters que identifica grupos o segmentos distintos dentro de los datos analizados.*
+*Gráfico de clusters que identifica grupos o segmentos de clientes dentro de los datos analizados.*
 
 ## Proyectos Destacados
 
