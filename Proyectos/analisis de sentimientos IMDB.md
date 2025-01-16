@@ -28,7 +28,7 @@ El objetivo de este proyecto fue desarrollar y evaluar modelos avanzados de clas
 - **TF-IDF**: Utilizado para la vectorización del texto.
 - **BERT**: Implementado para generar embeddings de texto que mejoran la representación de los datos.
 
-<img src="/Proyectos/assets/imagen_analisis_sentimientos.png" alt="Análisis de Sentimientos" width="100"/>
+<img src="/Proyectos/assets/cover_S4_analisis_sentimientos.png" alt="Análisis de Sentimientos" width="100"/>
 ![Análisis de Sentimientos](/Proyectos/assets/cover_S4_analisis_sentimientos.png)
 
 ## Habilidades en Ciencia de Datos Desarrolladas
