@@ -1,5 +1,26 @@
-Title : Omar Hernández
-# Logo : *
-# description: text below mage
-show_downloads: true
+title: Omar Hernández - Científico de Datos
+description: "Científico de Datos apasionado por transformar datos en decisiones estratégicas."
+url: "https://omihdz.github.io"  
 theme: jekyll-theme-minimal
+show_downloads: true
+
+# Redes Sociales
+github_username:  OmiHdz
+linkedin_username: omar-hernandez-v  
+
+# Menú de Navegación
+navigation:
+  - title: "Inicio"
+    url: "/"
+  - title: "Proyectos"
+    url: "/Proyectos"
+  - title: "CV"
+    url: "/cv.pdf"  
+
+# Plugins (si necesitas añadir algún plugin de Jekyll)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+
