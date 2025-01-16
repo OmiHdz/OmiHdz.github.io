@@ -10,7 +10,6 @@ Soy Omar Hernández, un ingeniero Mecatrónico convertido en Científico de Dato
 
 He trabajado en varios proyectos interesantes, aquí algunos ejemplos:
 
-- [Análisis de Sentimientos para Reseñas de Películas en IMDB](/Proyectos/analisis de sentimientos IMDB.md)
 - ![Análisis de Sentimientos](/Proyectos/assets/cover_S4_analisis_sentimientos.png)
 - [Predicción de Precio de Vehículos Usados](/Proyectos/prediccion_precio_vehiculos)
 - [Predicción de Demanda de Taxis](/Proyectos/prediccion_demanda_taxis)
