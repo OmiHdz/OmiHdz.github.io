@@ -1,4 +1,4 @@
-# Omar Hernández - Científico de Datos
+# Científico de Datos
 
 Bienvenido a mi portafolio en GitHub Pages, donde comparto proyectos y experiencias que destacan mi trayectoria en ciencia de datos y análisis predictivo.
 
