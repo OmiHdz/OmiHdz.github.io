@@ -4,7 +4,9 @@ Bienvenido a mi portafolio en GitHub Pages, donde comparto proyectos y experienc
 
 ## Acerca de Mí
 
-Soy Omar Hernández, un ingeniero Mecatrónico convertido en Científico de Datos, con una sólida base en análisis de datos, modelado predictivo, y aprendizaje automático. Estoy apasionado por usar el análisis de datos para tomar decisiones estratégicas que impulsen el éxito empresarial.
+Soy Omar Hernández, un Científico de Datos e ingeniero Mecatrónico, con una sólida base en análisis de datos, modelado predictivo, y aprendizaje automático. Estoy apasionado por usar el análisis de datos para tomar decisiones estratégicas que impulsen el éxito empresarial.
+
+Tengo interés en proyectos tanto sociales como empresariales, donde pueda capitalizar mis conocimientos y aportar valor en la toma de decisiones.
 
 
 ## Proyectos Destacados
